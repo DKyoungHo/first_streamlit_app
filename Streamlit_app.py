@@ -1,1 +1,3 @@
-created the main pyhton file
+import streamlit
+
+streamlit.title('My Partner New Healthy Diner')
